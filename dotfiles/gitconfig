@@ -59,3 +59,8 @@
 
 [init]
   defaultBranch = master
+[user]
+	name = senanur
+	email = senanur.cetin.work@gmail.com
+[credential]
+	helper = store
