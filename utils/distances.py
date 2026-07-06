@@ -1,5 +1,3 @@
-%load_ext autoreload
-%autoreload 2
 def manhattan(a, b):
     """
     İki nokta arasındaki Manhattan mesafesini hesaplar.
